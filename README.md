@@ -16,7 +16,7 @@ Not all users of an SQL database need to know how to actually program a in SQL. 
 
 ## Instructions
 
-Please address the TODO's in the `python` code provided with this activity: `src/makeQuery.py` and `scr/makeEdit.py`. You are to submit this work to your GitHub repository at least three (3) times. Please enter all code from class as your deliverable. Your instructor will have more information about this activity.
+Please address the TODO's in the `python` code provided with this activity: `src/makeQuery.py` and `scr/makeEdit.py`. You are to submit this work to your GitHub repository at least three (3) times. Please enter all code from class as your deliverable. Your instructor will have more information about this activity. Note: some of your code may require a database. In this case, please feel free to use the included builder file for the CampusDB
 
 ## Project Assessment
 
